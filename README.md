@@ -1,3 +1,9 @@
+---
+noteId: "600c9e00489511edaca48b8860ee2b50"
+tags: []
+
+---
+
 The Open Medical Institute (OMI) is an international initiative for medical professionals, which, through education and research, aims to improve healthcare on a global scale. The weekly OMI seminars are offered to highly qualified, English-speaking physicians from Central and Eastern Europe, Asia, Africa, Latin America, and other countries in transition. They are organized by the Salzburg Stiftung der American Austrian Foundation and are co-funded by the Austrian Federal Ministry of Education, Science and Research.
 
 # Program
