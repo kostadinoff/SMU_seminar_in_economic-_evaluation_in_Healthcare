@@ -22,7 +22,7 @@ Sunday, October 9 – Saturday, October 15, 2022
  Ciaran O'Neill, PhD
  - 07 - [Measuring Outcomes in HTA](lectures/07.md)
  Bosiljka Djikanović, MD, MSc, PhD
- - 08 - Ratio, Uncertainty and Sensitivity
+ - 08 - [Ratio, Uncertainty and Sensitivity](lectures/08.md)
  Silvia Evers, PhD, LLM
 ## Wednesday 12.10.2022
  - 09 - Pricing, Reimbursement and HTA 
