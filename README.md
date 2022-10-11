@@ -16,11 +16,11 @@ Sunday, October 9 – Saturday, October 15, 2022
  - 04 - [HTA and the Professional’s Practice](lectures/04.md)
  Lorena Dini, MD, MScIH, HCM, PhD
 ## Tuesday 11.10.2022
- - 05 - [IMeasuring Costs and Outcomes in HTA](lectures/05.md)
+ - 05 - [Measuring Costs and Outcomes in HTA](lectures/05.md)
  Ciaran O'Neill, PhD
- - 06 - [IMeasuring Costs in HTA Studies](lectures/05.md)
+ - 06 - [Measuring Costs in HTA Studies](lectures/05.md)
  Ciaran O'Neill, PhD
- - 07 - [IMeasuring Outcomes in HTA](lectures/07.md)
+ - 07 - [Measuring Outcomes in HTA](lectures/07.md)
  Bosiljka Djikanović, MD, MSc, PhD
  - 08 - Ratio, Uncertainty and Sensitivity
  Silvia Evers, PhD, LLM
