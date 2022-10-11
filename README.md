@@ -18,7 +18,7 @@ Sunday, October 9 – Saturday, October 15, 2022
  Silvia Evers, PhD, LLM
  - 03 - [introduction to the Field of Economic Evaluation and HTA](lectures/01.md)
  Silvia Evers, PhD, LLM
- - 04 - [HTA and the Professional’s Practice](lectures/02.md)
+ - 04 - [HTA and the Professional’s Practice](lectures/04.md)
  Lorena Dini, MD, MScIH, HCM, PhD
 ## Tuesday 11.10.2022
  - 05 - Measuring Costs and Outcomes in HTA
