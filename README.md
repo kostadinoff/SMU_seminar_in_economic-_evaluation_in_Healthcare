@@ -25,7 +25,7 @@ Sunday, October 9 – Saturday, October 15, 2022
  Tomasz Bochenek, MD, MPH, PhD
  - 07 - [Patient Classification Systems and Prices (1)](lectures/07.md)
  Céu Mateus, PhD
- - 08 - [Patient Classification Systems and Prices (2)](lectures/08.md)
+ - 08 - [Patient Classification Systems and Prices (2)](lectures/07.md)
  Céu Mateus, PhD
 ## Thursday 13.10.2022
  - 09 - Economic Evaluation of Different Health Service
