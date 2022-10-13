@@ -28,11 +28,11 @@ Sunday, October 9 – Saturday, October 15, 2022
  - 08 - [Patient Classification Systems and Prices (2)](lectures/07.md)
  Céu Mateus, PhD
 ## Thursday 13.10.2022
- - 09 - Economic Evaluation of Different Health Service
+ - 09 - [Economic Evaluation of Different Health Service](lectures/08.md)
  Rositsa Koleva-Kolarova, PhD
- - 10 - Companion Diagnostics (CDx), Emerging Technologies and the Role of AI
+ - 10 - [Companion Diagnostics (CDx), Emerging Technologies and the Role of AI](lectures/09.md)
  Elena Petelos, PhD, SRF
- - 11 - Economic Evaluation and Reimbursement of Personalized Medicine Interventions
+ - 11 - [Economic Evaluation and Reimbursement of Personalized Medicine Interventions](lectures/10.md)
  Rositsa Koleva-Kolarova, PhD
 ## Friday  14.10.2022
  - 12 - EU and Economic Evaluation of Medical Devices
