@@ -35,9 +35,9 @@ Sunday, October 9 – Saturday, October 15, 2022
  - 11 - [Economic Evaluation and Reimbursement of Personalized Medicine Interventions](lectures/10.md)
  Rositsa Koleva-Kolarova, PhD
 ## Friday  14.10.2022
- - 12 - EU and Economic Evaluation of Medical Devices
+ - 12 - [EU and Economic Evaluation of Medical Devices](lectures/11.md)
  Elena Petelos, PhD, SRF
- - 13 - The Role of HTA in Health Policy Decisions. Examples from EU Countries
+ - 13 - [The Role of HTA in Health Policy Decisions. Examples from EU Countries](lectures/12.md)
  Enkeleint Aggelos Mechili, MSc, PhD
- - 14 - Towards the Adoption of Common Practices in HTA and the EUnetHTA Effort and Joint Clinical Assessments
+ - 14 - [Towards the Adoption of Common Practices in HTA and the EUnetHTA Effort and Joint Clinical Assessments](lectures/13.md)
  Kostas Athanasakis, PhD
