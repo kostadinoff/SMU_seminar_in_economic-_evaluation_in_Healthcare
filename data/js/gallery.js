@@ -1,0 +1,1 @@
+var gallery01 = new Gallery("gallery", 48);
